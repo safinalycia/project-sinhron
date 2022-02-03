@@ -1,1 +1,2 @@
 # project-sinhron
+bugi-vugi
